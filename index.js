@@ -41,6 +41,28 @@ document.getElementById("p3").innerHTML = "Hello " + student;
 */
 
 
+//---------------------------------------------------------
+
+/*
+//arithmetic expression is a combination if 
+//operands (values, variables, etc.)
+//operators (+ - * / %)
+//that can be ecaluated to a value
+//y = x + 5;
+
+
+//+=, -=, *=, /=
+
+let students = 20;
+
+//students = students * 2;
+let extraStudents = students % 3
+
+
+
+console.log(students);
+console.log(extraStudents);
+*/
 
 
 
