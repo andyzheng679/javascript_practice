@@ -271,8 +271,23 @@ let letter = userName.charAt(0).toUpperCase();
 console.log(letter);
 */
 
+//-------------------------------------------------------
+// if statements = basic for of decision making
+//                  if a condition is true, then do something
+//   
+/*               if not, then don't do it 
+let age = -3;
 
-
+if(age >= 18){
+    console.log("You are an adult");
+}
+else if(age < 0){
+    console.log("Not born yet");
+}
+else{
+    console.log("You are a child");
+}
+*/
 
 
 
