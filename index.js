@@ -222,8 +222,25 @@ document.getElementById("rollButton").onclick = function(){
 }
 */
 
+//------------------------------------------------------
+// useful string properties & methods
+/*
+let userName = "Andy Zheng";
+let phoneNumber = "123-456-7890";
 
+console.log(userName.length);
+console.log(userName.charAt(7));
+console.log(userName.indexOf("n"));
+console.log(userName.lastIndexOf("n"));
+userName = userName.trim();
+userName = userName.toUpperCase();
+userName = userName.toLowerCase();
 
+phoneNumber = phoneNumber.replaceAll("-", "/")
+
+console.log(userName);
+console.log(phoneNumber);
+*/
 
 
 
