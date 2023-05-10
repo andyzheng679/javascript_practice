@@ -97,7 +97,7 @@ age += 1;
 
 console.log("Happy Birthday! You are", age, "years old");
 */
-
+/*
 let x;
 let y;
 let z;
@@ -109,6 +109,44 @@ z = Boolean("sdf");  //empty = false, anything in it is true
 console.log(x, typeof x);
 console.log(y, typeof y);
 console.log(z, typeof z);
+*/
+
+//--------------------------------------------------
+// const = a variable that can't be changed
+/*
+const PI = 3.14159;
+let radius;
+let circumference;
+
+radius = window.prompt("enter the radius of a circle");
+radius = Number(radius);
+
+circumference = 2 * PI * radius;
+
+console.log("the circumference is:", circumference);
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
