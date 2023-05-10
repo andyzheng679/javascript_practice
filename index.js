@@ -242,11 +242,11 @@ console.log(userName);
 console.log(phoneNumber);
 */
 
-//-------------------------------
+//----------------------------------------------------
 // slice() extracts a section of a string 
 //          and returns it as a new string,
 //          without modifying the original string 
-
+/*
 let fullName = "Andy Zheng";
 
 let firstName;
@@ -257,9 +257,19 @@ lastName = fullName.slice(fullName.indexOf(" ") + 1);
 
 console.log(firstName);
 console.log(lastName);
+*/
+
+//-----------------------------------------------------
+// method chaining = calling one method after another
+//                    in one continuous line of code
+/*
+let userName = "andy";
+
+let letter = userName.charAt(0).toUpperCase();
 
 
-
+console.log(letter);
+*/
 
 
 
